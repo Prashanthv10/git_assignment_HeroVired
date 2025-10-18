@@ -56,7 +56,7 @@ Versioning & Releases
 Author
 
 Prashanth V
-Email: your.email@example.com
+Email: prashant301k@gmail.com
 GitHub: https://github.com/Prashanthv10
 
 
