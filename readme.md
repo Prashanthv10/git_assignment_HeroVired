@@ -1,12 +1,15 @@
 Git Assignment – HeroVired
 This repository is part of the Hero Vired Git Assignment showcasing Git workflows, branching, and release management using Python scripts.
 
+
+
 Repository Structure
 git_assignment_HeroVired/
 ├── CalculatorPlus.py       - Enhanced calculator with basic operations
 ├── GeometryCalculator.py   - Script for geometry-based computations
 ├── .gitattributes          - Git attributes configuration
 └── README.md               - Project documentation
+
 
 Branch structure:
 Branch Name	Description
