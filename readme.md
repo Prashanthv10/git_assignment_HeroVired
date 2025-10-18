@@ -1,7 +1,7 @@
 Git Assignment – HeroVired
 This repository is part of the Hero Vired Git Assignment showcasing Git workflows, branching, and release management using Python scripts.
-Repository Structure
 
+Repository Structure
 git_assignment_HeroVired/
 ├── CalculatorPlus.py       - Enhanced calculator with basic operations
 ├── GeometryCalculator.py   - Script for geometry-based computations
@@ -10,15 +10,14 @@ git_assignment_HeroVired/
 
 Branch structure:
 Branch Name	Description
-main	                Stable branch — final tested code and releases
-dev	                    Active development branch — integrates new features
-feature/circle-area	    Adds circle area calculation functionality
-feature/rectangle-area	Adds rectangle area calculation functionality
-geometry-calculator	    Branch dedicated to geometry-related logic
-lfs	                    Used for testing Git LFS (Large File Storage) integration
+main	                     Stable branch — final tested code and releases
+dev	                     Active development branch — integrates new features
+feature/circle-area	      Adds circle area calculation functionality
+feature/rectangle-area	   Adds rectangle area calculation functionality
+geometry-calculator	      Branch dedicated to geometry-related logic
+lfs	                     Used for testing Git LFS (Large File Storage) integration
 
-Setup Instructions
-
+Setup Instructions:
 1. Clone the repository:
    git clone https://github.com/Prashanthv10/git_assignment_HeroVired.git
    cd git_assignment_HeroVired
